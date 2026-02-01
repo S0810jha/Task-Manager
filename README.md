@@ -125,6 +125,6 @@ MIT (or add whichever license you'd like)
 
 ---
 
-**Author:** 
+##Author 
 Shubham Jhan
 
