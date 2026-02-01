@@ -125,4 +125,6 @@ MIT (or add whichever license you'd like)
 
 ---
 
-If you'd like, I can also add a short `CONTRIBUTING.md`, example `.env.example`, or API examples (curl/Postman) to the repo. 💡
+**Author:** 
+Shubham Jhan
+
